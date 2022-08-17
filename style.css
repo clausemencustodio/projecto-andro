@@ -108,7 +108,11 @@ footer{
     color: white;
     text-align: center;
     font-size: 0.8em;
-    padding: 5px;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+   
+
     
 }
 main img{
